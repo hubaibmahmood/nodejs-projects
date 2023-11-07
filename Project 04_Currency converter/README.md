@@ -1,7 +1,7 @@
 
 
 ## Currencies
-This is the list of supported currencies by Currenzy:
+This is the list of supported currencies:
 
 |     |     |     |     |     |     |     |     |     |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
